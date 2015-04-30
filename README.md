@@ -1,8 +1,8 @@
 # mastermind
-Network based mastermind game (aka bulls and cows) for UNIX based systems.
+Terminal based network mastermind game (aka bulls and cows) for UNIX based systems.
 
 ##compiling
-make...
+make
 
 ##running
 You need a terminal window/tab for the server and one for each client.
