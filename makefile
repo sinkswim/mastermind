@@ -5,3 +5,4 @@ mastermind_server: mastermind_server.c
 
 mastermind_client: mastermind_client.c
     gcc mastermind_client.c -o mastermind_client
+
