@@ -59,7 +59,7 @@ fd_set read_fds;
 
 int fdmax;
 int length;
-char help[]=("Sono disponibili i seguenti comandi:\n * !help --> mostra l'elenco dei comandi disponibili\n * !who --> mostra l'elenco dei client connessi al server\n * !connect nome_client --> avvia una partita con l'utente nome_client\n * !disconnect --> disconnette il client dall'attuale partita intrapresa con un altro peer\n * !quit --> disconnette il client dal server\n * !combinazione comb -> permette al client di fare un tentativo con la combinazione comb\n ");
+char help[]=("The following commands are available:\n * !help --> show list of available commands\n * !who --> show list of clients connected to server\n * !connect client_name --> start a game against client_name\n * !disconnect --> disconnects client from other peer (opponent)\n * !quit --> disconnects client from server\n * !combinazione comb -> lets the player try to guess (comb) the opponent's combination\n ");
 
 int step=0; // N.B. aspetto sfidante o scrivo da tastiera
 
