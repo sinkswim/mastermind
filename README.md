@@ -1,5 +1,5 @@
 # mastermind
-Terminal based network mastermind game (aka bulls and cows) for UNIX based systems.
+Terminal based network mastermind game (aka bulls and cows) for UNIX based systems written in C.
 
 ##compiling
 make
