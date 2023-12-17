@@ -7,11 +7,11 @@ make
 ## running
 You need a terminal window/tab for the server and one for each client.
 
-Running the server:   ./bin/mastermind_server 127.0.0.1 1234
+Running the server:   `./bin/mastermind_server 127.0.0.1 1234`
   
 Where you are passing the network address and port number of the server.
   
-Running the client:   ./bin/mastermind_client 127.0.0.1 1234
+Running the client:   `./bin/mastermind_client 127.0.0.1 1234`
   
   Where you are passing the network address and the port of the server you want to connect to. This establishes a typical client-server connection.
   
